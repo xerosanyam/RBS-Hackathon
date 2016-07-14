@@ -1,6 +1,6 @@
 {
   "msg": "OK",
-  "result": {
+  "result": [
     {"type": "cap", "val":599.0},
     {"type": "cap", "val":456.0},
     {"type": "cap", "val":333.0},
@@ -16,5 +16,5 @@
     {"type": "Polos & T-Shirts", "val":750.0},
     {"type": "Polos & T-Shirts", "val":399.0},
     {"type": "Polos & T-Shirts", "val":439.0}
-    }
+    ]
 }
